@@ -2,9 +2,7 @@
 
 A market benchmarking project for a host managing entire-apartment listings across three Barcelona districts, built around a realistic client-scoping exercise, real geographic visualization, and a validated seasonal demand finding - using SQL, Python, and Power BI.
 
-**[Add your Power BI screenshot or dashboard walkthrough video link here]**
 
----
 
 ## Business Problem
 
